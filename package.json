@@ -1,0 +1,22 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "just learning",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proparitoshsingh/airdropOfSOL.git"
+  },
+  "author": "Paritosh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proparitoshsingh/airdropOfSOL/issues"
+  },
+  "homepage": "https://github.com/proparitoshsingh/airdropOfSOL#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
